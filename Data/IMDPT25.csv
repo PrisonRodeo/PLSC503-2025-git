@@ -1,0 +1,178 @@
+"CCode","Country","Year","InfantMortalityPerK","DPTpct"
+"USA","United States",2000,6.90000009536743,94
+"BHS","Bahamas, The",2000,14,99
+"CUB","Cuba",2000,7.19999980926514,95
+"HTI","Haiti",2000,81,43
+"DOM","Dominican Republic",2000,33,68
+"JAM","Jamaica",2000,17,86
+"TTO","Trinidad and Tobago",2000,20,90
+"BRB","Barbados",2000,12,93
+"DMA","Dominica",2000,13,99
+"GRD","Grenada",2000,21,97
+"VCT","St. Vincent and the Grenadines",2000,21,99
+"ATG","Antigua and Barbuda",2000,13,95
+"MEX","Mexico",2000,25,89
+"BLZ","Belize",2000,34,89
+"GTM","Guatemala",2000,39,85
+"HND","Honduras",2000,33,95
+"SLV","El Salvador",2000,29,99
+"NIC","Nicaragua",2000,34,83
+"CRI","Costa Rica",2000,12.5,88
+"PAN","Panama",2000,20,98
+"COL","Colombia",2000,20,74
+"VEN","Venezuela, RB",2000,17,77
+"GUY","Guyana",2000,52,88
+"SUR","Suriname",2000,31,71
+"ECU","Ecuador",2000,27,89
+"PER","Peru",2000,33,91
+"BRA","Brazil",2000,35,99
+"BOL","Bolivia",2000,63,80
+"PRY","Paraguay",2000,23,68
+"CHL","Chile",2000,8.89999961853027,97
+"ARG","Argentina",2000,17.2000007629395,66
+"URY","Uruguay",2000,14.1000003814697,90
+"IRL","Ireland",2000,5.90000009536743,86
+"NLD","Netherlands",2000,4.59999990463257,97
+"BEL","Belgium",2000,4.80000019073486,95
+"LUX","Luxembourg",2000,5,98
+"FRA","France",2000,4.40000009536743,97
+"MCO","Monaco",2000,4.90000009536743,99
+"CHE","Switzerland",2000,4.90000009536743,95
+"ESP","Spain",2000,4.5,95
+"ADO","Andorra",2000,6.40000009536743,98
+"PRT","Portugal",2000,5.5,96
+"DEU","Germany",2000,4.40000009536743,89
+"POL","Poland",2000,8.10000038146973,98
+"AUT","Austria",2000,4.80000019073486,81
+"HUN","Hungary",2000,9.19999980926514,99
+"CZE","Czech Republic",2000,4.09999990463257,98
+"SVK","Slovak Republic",2000,8.30000019073486,99
+"ITA","Italy",2000,4.59999990463257,95
+"SMR","San Marino",2000,4.5,96
+"MLT","Malta",2000,6,94
+"ALB","Albania",2000,22,97
+"MKD","Macedonia, FYR",2000,16,95
+"HRV","Croatia",2000,7.40000009536743,93
+"YUG","Serbia and Montenegro",2000,13.9300003051758,95
+"BIH","Bosnia and Herzegovina",2000,14,85
+"SVN","Slovenia",2000,4.90000009536743,92
+"GRC","Greece",2000,5.40000009536743,88
+"CYP","Cyprus",2000,5.59999990463257,97
+"BGR","Bulgaria",2000,13.3299999237061,92
+"MDA","Moldova",2000,29.2999992370605,91
+"ROM","Romania",2000,18.7000007629395,99
+"RUS","Russian Federation",2000,19.8999996185303,95
+"EST","Estonia",2000,8.39999961853027,93
+"LVA","Latvia",2000,10.3999996185303,97
+"LTU","Lithuania",2000,8.5,94
+"UKR","Ukraine",2000,17.8999996185303,99
+"BLR","Belarus",2000,11,99
+"ARM","Armenia",2000,33,93
+"GEO","Georgia",2000,41,80
+"AZE","Azerbaijan",2000,77,99
+"FIN","Finland",2000,3.70000004768372,99
+"SWE","Sweden",2000,3.20000004768372,98
+"NOR","Norway",2000,3.79999995231628,95
+"DNK","Denmark",2000,5.30000019073486,97
+"ISL","Iceland",2000,3,98
+"CPV","Cape Verde",2000,31,86
+"STP","Sao Tome and Principe",2000,75,82
+"GNB","Guinea-Bissau",2000,132,42
+"GNQ","Equatorial Guinea",2000,120,33
+"GMB","Gambia, The",2000,92,83
+"MLI","Mali",2000,124,40
+"SEN","Senegal",2000,80,52
+"BEN","Benin",2000,95,79
+"MRT","Mauritania",2000,79,40
+"NER","Niger",2000,159,31
+"CIV","Cote d'Ivoire",2000,115,72
+"GIN","Guinea",2000,112,55
+"BFA","Burkina Faso",2000,100,57
+"LBR","Liberia",2000,157,55
+"SLE","Sierra Leone",2000,167,44
+"GHA","Ghana",2000,68,84
+"TGO","Togo",2000,80,64
+"CMR","Cameroon",2000,88,53
+"NGA","Nigeria",2000,107,24
+"GAB","Gabon",2000,60,38
+"CAF","Central African Republic",2000,115,37
+"TCD","Chad",2000,117,28
+"COG","Congo, Rep.",2000,81,33
+"ZAR","Congo, Dem. Rep.",2000,129,40
+"UGA","Uganda",2000,85,58
+"KEN","Kenya",2000,77,75
+"TZA","Tanzania",2000,88,79
+"BDI","Burundi",2000,114,74
+"RWA","Rwanda",2000,118,90
+"SOM","Somalia",2000,133,33
+"DJI","Djibouti",2000,107,46
+"ETH","Ethiopia",2000,116,56
+"ERI","Eritrea",2000,61,88
+"AGO","Angola",2000,154,31
+"MOZ","Mozambique",2000,122,68
+"ZMB","Zambia",2000,102,78
+"ZWE","Zimbabwe",2000,73,77
+"MWI","Malawi",2000,117,75
+"ZAF","South Africa",2000,50,79
+"NAM","Namibia",2000,50,79
+"LSO","Lesotho",2000,75.4700012207031,82
+"BWA","Botswana",2000,74,97
+"SWZ","Swaziland",2000,98,77
+"MDG","Madagascar",2000,84,57
+"COM","Comoros",2000,61,70
+"MUS","Mauritius",2000,15.8000001907349,88
+"SYC","Seychelles",2000,13,98
+"MAR","Morocco",2000,45,95
+"DZA","Algeria",2000,37,92
+"TUN","Tunisia",2000,25,96
+"LBY","Libya",2000,20,94
+"SDN","Sudan",2000,65,41
+"IRN","Iran, Islamic Rep.",2000,36,99
+"TUR","Turkey",2000,37.5,85
+"EGY","Egypt, Arab Rep.",2000,40,98
+"SYR","Syrian Arab Republic",2000,19,94
+"LBN","Lebanon",2000,28,90
+"JOR","Jordan",2000,25,91
+"ISR","Israel",2000,5.80000019073486,96
+"SAU","Saudi Arabia",2000,23,95
+"KWT","Kuwait",2000,9.10000038146973,98
+"BHR","Bahrain",2000,10,97
+"QAT","Qatar",2000,19,80
+"OMN","Oman",2000,12,99
+"TKM","Turkmenistan",2000,77,97
+"TJK","Tajikistan",2000,80.4300003051758,83
+"KGZ","Kyrgyz Republic",2000,60,99
+"UZB","Uzbekistan",2000,59,96
+"KAZ","Kazakhstan",2000,63,97
+"CHN","China",2000,33,89
+"MNG","Mongolia",2000,50,95
+"PRK","Korea, Dem. Rep.",2000,42,56
+"KOR","Korea, Rep.",2000,5,97
+"JPN","Japan",2000,3.20000004768372,85
+"IND","India",2000,68,64
+"BTN","Bhutan",2000,77,92
+"PAK","Pakistan",2000,85,61
+"BGD","Bangladesh",2000,66,83
+"MMR","Myanmar",2000,78,82
+"LKA","Sri Lanka",2000,16.1000003814697,99
+"MDV","Maldives",2000,45,97
+"NPL","Nepal",2000,69,72
+"THA","Thailand",2000,19,97
+"KHM","Cambodia",2000,95,50
+"LAO","Lao PDR",2000,77,53
+"VNM","Vietnam",2000,23,96
+"MYS","Malaysia",2000,11,95
+"SGP","Singapore",2000,2.90000009536743,95
+"BRN","Brunei",2000,8,99
+"PHL","Philippines",2000,30,80
+"IDN","Indonesia",2000,36,75
+"AUS","Australia",2000,4.90000009536743,90
+"PNG","Papua New Guinea",2000,70,57
+"NZL","New Zealand",2000,5.8899998664856,90
+"VUT","Vanuatu",2000,38.2999992370605,90
+"SLB","Solomon Islands",2000,35.5699996948242,82
+"FJI","Fiji",2000,18,89
+"MHL","Marshall Islands",2000,55,39
+"PLW","Palau",2000,24,96
+"FSM","Micronesia, Fed. Sts.",2000,20,85
+"WSM","Samoa",2000,27.8199996948242,99
