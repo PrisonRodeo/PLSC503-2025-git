@@ -4,5 +4,5 @@ This is the github repo for the Spring 2025 instance of PLSC 503: "Multivariate 
 
 The repo contains all course materials, including the syllabus, most course readings, slides, example data, computer code, and homework exercises. It also contains example materials for constructing a research poster presentation using LaTeX.
 
-This is a url: https://cnn.com.
+Check out the syllabus here: https://github.com/PrisonRodeo/PLSC503-2025-git/blob/main/PLSC503SyllabusSpring2025.pdf
 
